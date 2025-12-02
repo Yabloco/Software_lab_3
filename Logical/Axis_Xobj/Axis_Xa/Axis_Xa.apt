@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<AcoposParameterTable>
+  <Root Name="Parameters">
+    <Parameter Name="PCTRL_S_ACT_PARID" ID="230" Value="PCTRL_S_SET" />
+    <Parameter Name="SERVO_V_MAX_OUTPUT" ID="64201" Value="6500" />
+  </Root>
+</AcoposParameterTable>

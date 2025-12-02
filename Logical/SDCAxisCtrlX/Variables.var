@@ -1,0 +1,8 @@
+VAR
+	axis_X : FB_Axis;
+	coil_powered : BOOL;
+	coil_pwm_value : INT;
+	fb_regulator : FB_Regulator;
+	pwm_period : UINT;
+	min_task : INT := 7000;
+END_VAR

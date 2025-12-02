@@ -1,0 +1,3 @@
+VAR
+	Axis_X_oSetPosOld : INT := 0;
+END_VAR
